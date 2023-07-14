@@ -593,6 +593,13 @@ iframe {
   margin-bottom: var(--mb-1);
 }
 
+.qualification__description{
+  display: inline-block;
+  font-size: var(--small-font-size);
+  margin-bottom: var(--mb-1);
+}
+
+
 .qualification__calendar{
   font-size: var(smaller-font-size);
   color: var(--text-color-light);
